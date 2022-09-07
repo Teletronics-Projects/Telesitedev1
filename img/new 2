@@ -1,0 +1,191 @@
+<section id="services">
+    <div class="section-header" style="padding-top: 5px;">
+           <h2 style="color:#1a87b9 ">Services</h2>
+           <p style="color: #85C1E9">We are the specialists in this areas</p>
+            </div>
+      
+   
+         <div class="container" style="margin-top:5px;">
+             <div class="row masonry-container" style="position: relative; height: 44.63px;">
+              
+               <div class="col-lg-4 col-md-6 masonry-item wow fadeInUp animation-delay-2" style="position: absolute; left: 0px; top: 0px; visibility: visible; animation-name: fadeInUp;">
+                 <article class="card card-info mb-4 wow materialUp animation-delay-5" style="visibility: visible; animation-name: materialUp;">
+                   <figure class="ms-thumbnail ms-thumbnail-left">
+                     <img src="assets/Stock Images/comp.jpg" alt="" class="img-fluid" style="height: 248px;">
+                   </figure>
+                   <div class="card-body" >
+                      
+                       <div style="color:#4d4c4bfd; text-align: center; text-size: "><h2><a href="javascript:void(0)"><b style="color:#13abe7">COMPLIANCE </b></a></h2>
+                        <p>  </p>
+                       <h6 id="demotext" face="verdana" size="3"> Mandatory Grants</h6>
+                       <h6> Discretionary Grants</h6>
+                       <h6>Facilitation of skills &<br> development committees </h6>
+                      
+                       </div>
+                         <div class="row">
+                     
+                       <div class="col-lg-6 col-md-8 ">
+                           <a data-toggle="modal" data-target="#myModal7" class="btn btn-primary btn-sm btn-block animate-icon text-align:center">
+                             Read more <i class="ml-1 no-mr zmdi zmdi-long-arrow-right"></i></a>
+                       </div>
+                     </div>
+                   </div>
+                 </article>
+               </div>
+   
+               <div class="col-lg-4 col-md-6 masonry-item wow fadeInUp animation-delay-2" style="position: absolute; left: 360px; top: 589.625px; visibility: visible; animation-name: fadeInUp;">
+                   <article class="card card-warning mb-4 wow materialUp animation-delay-5" style="visibility: visible; animation-name: materialUp;">
+                     <figure class="ms-thumbnail ms-thumbnail-left">
+                       <img src="assets/img/demo/p3.jpg" alt="" class="img-fluid">
+                     </figure>
+                    <div class="card-body ">
+                         <div style="color:#4d4c4bfd; font-style:b; text-align: center;">  
+                       <h2 > <a href="javascript:void(0)"><b style="color:#b9671a; text-align: center">MANAGEMENT & ADMINISTRATION</b></a></h2>
+                       
+                         <h6 id="demotext" face="verdana" size="3">Recruitment & selection of learners</h6>
+                         <h6>Manage Placement of Students</h6>
+                         <h6>Internships</h6>
+                         
+                         
+                        </div>
+                       <div class="row">
+                         
+                         <div class="col-lg-6 col-md-8" >
+                             <a data-toggle="modal" data-target="#myModal8" class="btn btn-warning btn-sm btn-block animate-icon" style="text-align: center;">Read more <i class="ml-1 no-mr zmdi zmdi-long-arrow-right"></i></a>
+                         </div>
+                       </div>
+                     </div>
+                   </article>
+                 </div>
+   
+               <div class="col-lg-4 col-md-6 masonry-item wow fadeInUp animation-delay-2" style="position: absolute; left: 360px; top: 0px; visibility: visible; animation-name: fadeInUp;">
+                 <article class="card card-primary mb-4 wow materialUp animation-delay-5" style="visibility: visible; animation-name: materialUp;">
+                     <figure class="ms-thumbnail ms-thumbnail-left">
+                        <img src="assets/Stock Images/blackboard-chalkboard-communication-355988.jpg" alt="" class="img-fluid">
+                     </figure> 
+                   <div class="card-body">
+                       <h2 style="color:#13abe7; text-align: center"><a href="javascript:void(0)"><b style="color:#13abe7">IMPLEMENTATION & EVALUATION</b> </a></h2>
+                       <div style="color:#4d4c4bfd #4d4c4bfd; font-style:b; text-align: center;"> 
+                    
+                       <h6 style="text-align: center">Consultation for Provider Accreditation</h6>
+                       <h6>Project Management </h6>
+                       <h6>BBBEE Consultation </h6>
+                     </div>
+                         <div class="row">
+                       <div class="col-lg-6 col-md-8">
+                           <a data-toggle="modal" data-target="#myModal6" class="btn btn-primary btn-sm btn-block animate-icon" style="text-align: center;">Read more <i class="ml-1 no-mr zmdi zmdi-long-arrow-right"></i></a>
+                       </div>
+                     </div>
+                   </div>
+                 </article>
+              
+              
+               </div>
+              
+              
+               
+             </div>
+           </div>
+         </section> 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 <!-- Modals -->
+<div class="modal modal-primary" id="myModal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel6">
+  <div class="modal-dialog animated zoomIn animated-3x" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title" id="myModalLabel6">Implementation & Evaluation </h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="zmdi zmdi-close"></i></span></button>
+      </div>
+      <div class="modal-body" style="color:#13abe7;  margin-top: 50px; text-align: center;">
+      <h3><b>Consultation for Provider Accreditation </b></h3>
+          <h3> </h3>
+          <h3 ><b>Project Management</b> </h3>
+          <h3> </h3>
+          <h3> <b>BBBEE Consultation</b></h3> 
+         </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+          </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal modal-warning" id="myModal8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel8">
+    <div class="modal-dialog animated zoomIn animated-3x" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="modal-title" id="myModalLabel8">Management & Administration</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="zmdi zmdi-close"></i></span></button>
+        </div>
+        <div class="modal-body" style="color:#b9671a; font-style:b; text-align: center;">
+            <h3><b>Recruitment & selection of learners</b></h3>
+            <p style="color:#181716"> Sourcing of CV’s 
+                <br>  Selection of learners
+                <br>	Companies conduct interviews/ Connect-mi,on behalf of the company 
+                  <p>
+           
+             <h3><b>Manage Placement of Students</b></h3>
+             <p style="color:#181716">	Apply for Discretionary Grants
+                <br>	Place learners in companies based on the outcomes of the interviews
+                </p>
+              
+             <h3><b>Internships </b></h3>
+             <p style="color:#181716"> Diploma/Degree<br>
+                12 months workplace experience <br>
+                  Assign Mentor/Coach <br> </p>
+
+             <h3>Mandatory Grants</h3>
+            <p style="color:#181716">-Annual Training Report <br>
+               -Workplace Skills Plan</p>
+           
+             <h3>Discretionary Grants</h3>
+             <p>-Applying for Learning interventions</p>
+              
+             <h3>Facilitation of skills development committees</h3> 
+          
+        <div class="modal-footer">
+          <button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="modal modal-primary" id="myModal7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel7">
+      <div class="modal-dialog animated zoomIn animated-3x" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="myModalLabel7">Compliance</h3>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="zmdi zmdi-close"></i></span></button>
+          </div>
+          <div class="modal-body" style="color:#13abe7; font-style:b; text-align: center;">
+            <h3><b>Mandatory Grants</b></h3>
+               <p style="color:#181716">Annual Training Report <br>
+                  Workplace Skills Plan</p>
+              
+                <h3><b>Discretionary Grants</b></h3>
+                <p style="color:#181716">Applying for Learning interventions</p>
+                 
+                <h3><b>Facilitation of skills development committees</b></h3> 
+                
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+             </div>
+        </div>
+      </div>
+    </div>
+  
